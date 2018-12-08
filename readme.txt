@@ -1,2 +1,2 @@
 frist      random   learning
-sencond learning
+sencond  learning random in the dormitroy
