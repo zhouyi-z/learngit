@@ -1,2 +1,2 @@
-frist         learning
+frist      random   learning
 sencond learning
